@@ -4,6 +4,7 @@ This Jupyter Notebook demonstrates the implementation of the Random Forest Class
 
 
 📌 Key Components:
+
 Loading and preprocessing the dataset
 
 Splitting data into training and testing sets
@@ -24,6 +25,7 @@ Tuning hyperparameters (if applicable)
 
 
 🛠 Libraries Used:
+
 pandas
 
 numpy
@@ -34,6 +36,7 @@ matplotlib / seaborn (for visualization, if included)
 
 
 🎯 Ideal For:
+
 Learning how ensemble models work
 
 Comparing performance with other classification algorithms
