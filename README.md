@@ -1,4 +1,4 @@
-🌲 Random Forest Classification:
+**🌲 Random Forest Classification:**
 
 This Jupyter Notebook demonstrates the implementation of the Random Forest Classification algorithm using Scikit-learn. It is used to classify data by building an ensemble of decision trees and aggregating their outputs for better accuracy.
 
